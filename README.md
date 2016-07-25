@@ -1,2 +1,0 @@
-# kohProj
-koh project
